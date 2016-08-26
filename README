@@ -1,0 +1,20 @@
+UserAle.JS has become a component of Apache SensSoft -- an official Apache
+Incubator project.
+
+The new official repository has therefore been relocated to:
+
+  https://git-wip-us.apache.org/repos/asf/incubator-senssoft-useralejs.git
+
+This is mirrored to Github at the following location:
+
+  https://github.com/apache/incubator-senssoft-useralejs
+
+The UserAle.JS website currently remains at:
+
+  http://draperlaboratory.github.io/useralejs/
+
+But will soon be moved to:
+
+  http://senssoft.incubator.apache.org
+
+- August 2016
